@@ -1,4 +1,4 @@
-# Default Commit Messages
+# :speech_balloon: Default Commit Messages
 
 ---
 
