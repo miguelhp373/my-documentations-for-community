@@ -1,0 +1,14 @@
+{
+    "0":{
+        "icon_path":"https://www.functionx.com/vcl/msgboxes/description.gif",
+        "title":"Message Box Sample ",
+        "language":"delphi",
+        "information":""
+    },
+    "1":{
+        "icon_path":"https://www.functionx.com/vcl/msgboxes/description.gif",
+        "title":"Default Commit Messages",
+        "language":"git",
+        "information": "feat: Adds a new feature to the code\nfix: Fixes an existing bug or issue in the code\ndocs: Makes changes to the code documentation, such as updating comments or README\nstyle: Makes changes to the code that do not affect its functionality, such as changing the formatting or indentation of the code\nrefactor: Makes changes to the code to improve its structure, but without adding or removing functionality\ntest: Adds, modifies, or refactors tests for the code\nchore: Performs auxiliary tasks related to the code, such as updating dependencies or configuration files."
+    }
+}
